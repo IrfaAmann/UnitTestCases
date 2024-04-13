@@ -22,4 +22,14 @@ public class Testcases {
 		public void method4() {
 			System.out.println("It is Method4 testcase statement");
 		}
+		
+		@Test
+		public void method5() {
+			System.out.println("It is Method5 testcase statement");
+		}
+		
+		@Test
+		public void method6() {
+			System.out.println("It is Method6 testcase statement");
+		}
 	}
